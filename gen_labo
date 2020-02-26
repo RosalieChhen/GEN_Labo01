@@ -15,4 +15,8 @@ Commit 3
 =======
 Commit 13
 >>>>>>> crazy_idea
+<<<<<<< HEAD
 Commit 18
+=======
+Commit 17
+>>>>>>> bug_fix
