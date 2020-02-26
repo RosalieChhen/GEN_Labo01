@@ -9,5 +9,9 @@ Commit 7
 Commit 6
 =======
 Commit 3
+<<<<<<< HEAD
 >>>>>>> experimental
 >>>>>>> dev
+=======
+Commit 13
+>>>>>>> crazy_idea
