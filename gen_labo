@@ -9,10 +9,17 @@ Commit 7
 Commit 6
 =======
 Commit 3
+<<<<<<< HEAD
 >>>>>>> experimental
 <<<<<<< HEAD
 Commit 10
 =======
 >>>>>>> dev
+<<<<<<< HEAD
 >>>>>>> master
 Commit 12
+=======
+=======
+Commit 13
+>>>>>>> crazy_idea
+>>>>>>> master
